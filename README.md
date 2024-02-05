@@ -7,10 +7,11 @@ I commented a random line at the end of symbols/halmak because it broke my AltGr
 I made a script to automatically install the layout.
 (sometimes, the layout gets randomly removed and you need to run the script again; X11 updates are probably to blame)
 
-layer1 and layer2 - the querty modifiers layer (ctrl,alt,super)
-layer3 and layer4 - the actual Halmak keyboard
-layer5 and layer6 - mac style special symbols for the ralt switch
-^it took me 1 hour to realize that ralt=right alt=AltGr :,,,,)
+Layers:
+- layer1 and layer2 - the querty modifiers layer (ctrl,alt,super)  
+- layer3 and layer4 - the actual Halmak keyboard  
+- layer5 and layer6 - mac style special symbols for the ralt switch  
+^it took me 1 hour to realize that ralt="right alt"=AltGr :,)
 
 ~~It kind of works system wide, but not everywhere, some electron apps
 are fucked. I have no other solution for VS Code other than manually
