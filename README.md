@@ -23,7 +23,7 @@ I'll pretend it works perfectly until it doesn't.
 ~~Also, apparently xkb gets broken now and then. I've tested this on Ubnutu 20.04, 
 and have no guarantee that it will keep working. Fucking programmers, man...~~
 
-./install_pralmak for the win
+./install_pralmak for the win  
 (I've pushed the script to the original halmak repo, still missing any reference in the "Readme" tho)
 
 ## Installation
